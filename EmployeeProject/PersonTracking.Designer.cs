@@ -175,7 +175,7 @@ namespace EmployeeProject
             this.label3.Size = new System.Drawing.Size(60, 13);
             this.label3.TabIndex = 1;
             this.label3.Text = "Adı Soyadı:";
-            this.label3.Click += new System.EventHandler(this.label3_Click);
+            
             // 
             // name
             // 
@@ -285,7 +285,7 @@ namespace EmployeeProject
             this.label6.Size = new System.Drawing.Size(46, 13);
             this.label6.TabIndex = 1;
             this.label6.Text = "Telefon:";
-            this.label6.Click += new System.EventHandler(this.label6_Click);
+            
             // 
             // label7
             // 
